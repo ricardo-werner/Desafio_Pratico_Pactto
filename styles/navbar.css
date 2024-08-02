@@ -1,0 +1,51 @@
+main {
+  display: flex;
+  width: 16.3rem;
+  padding: 42px 0px 12px;
+}
+
+main .user-profile img {
+  align-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+main .user-info{
+  font: var(--text-span-xsm);
+  margin-left: 1rem;
+  text-transform: uppercase;
+}
+
+main .type-info {
+  background-color: var(--bg-button);
+  margin-left: 0.5rem;
+  padding:0.4rem;
+  text-transform: uppercase;
+  border-radius: 0.5rem;
+}
+
+main .user-action {
+  font: var(--text-color-action);
+  margin-left: 0.94rem;
+  margin-top: 50px;
+}
+
+.user {
+  display: flex;
+  flex-direction: column;
+  width: 16.3rem;
+  padding-top: 28px;
+}
+
+.user-name {
+  font: var(--text-span-md);
+  margin-top: 0.5rem;
+}
+
+.user-member {
+  font: var(--text-span-sm);
+  color: var(--text-color-description);
+  margin-top: 0.5rem;
+}

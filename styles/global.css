@@ -17,11 +17,11 @@
   --text-color-action: #CBCBCB;
   --text-color-button: #181818;
 
-  --text-span-xsm: 300 0.6rem/145% var(--font-family);
-  --text-span-sm: 300 0.875rem/145% var(--font-family);
-  --text-span: 300 1rem/140% var(--font-family);
-  --text-spam-md: 300 1.25rem/140% var(--font-family);
-  --text-span-xl: 300 2rem/140% var(--font-family);
+  --text-span-xsm: 300 0.6rem var(--font-family);
+  --text-span-sm: 300 0.875rem var(--font-family);
+  --text-span: 300 1rem var(--font-family);
+  --text-span-md: 300 1.25rem var(--font-family);
+  --text-span-xl: 300 2rem var(--font-family);
 
   --bg-color: #232225;
   --bg-color-nav: #424242;
@@ -32,16 +32,13 @@
 }
 
 body {
-  font: var(--text-span-sm);
   background-color: var(--bg-color);
   color: var(--text-color-primary);
 }
 
-.container {
+#container {
   background-color: var(--bg-color-nav);
   width: 20.3rem;
   height: 59.6rem;
   padding: 2rem;
 }
-
-
