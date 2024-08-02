@@ -1,3 +1,9 @@
+header .profile {
+  color: var(--text-color-subtitle);
+  text-transform: uppercase;
+}
+
+
 main {
   display: flex;
   width: 16.3rem;
