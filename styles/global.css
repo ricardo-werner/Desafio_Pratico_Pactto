@@ -16,6 +16,7 @@
   --text-color-subtitle: #545454;
   --text-color-action: #CBCBCB;
   --text-color-button: #181818;
+  --text-content-hover: #1DBBA5;
 
   --text-span-xsm: 300 0.6rem var(--font-family);
   --text-span-sm: 300 0.875rem var(--font-family);
@@ -27,7 +28,6 @@
   --bg-color-nav: #424242;
   --bg-button: #1DBBA5;
   --bg-button-nav: #B8B8B8;
-  --bg-nav-hover: #1DBBA5;
   --bg-link: #1DBBA5;
 }
 
@@ -44,11 +44,23 @@ body {
 }
 
 .content {
-  padding: 2rem;
+  padding-block: 2rem;
+}
+
+.content .content-list img {
+  color: var(--text-color-span);
+  margin-right: 0.75rem;
 }
 
 .content .content-list{
-  align-content: center;
+  font: var(--text-span-sm);
+  color: var(--text-color-span);
+  display: flex;
+  align-items: center;
   list-style-type: none;
   height: 48px;
+}
+
+.content-list:nth-child(1) {
+  color: var(--text-content-hover);
 }
