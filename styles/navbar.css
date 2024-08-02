@@ -36,7 +36,6 @@ main .user-action {
   font: var(--text-color-action);
   color: var(--text-color-action);
   margin-left: 0.94rem;
-  margin-top: 50px;
 }
 
 .user {
