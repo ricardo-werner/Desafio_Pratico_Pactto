@@ -1,3 +1,14 @@
+header .logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header .close {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
 header .profile {
   color: var(--text-color-subtitle);
   text-transform: uppercase;
