@@ -3,7 +3,6 @@ header .profile {
   text-transform: uppercase;
 }
 
-
 main {
   display: flex;
   width: 16.3rem;
@@ -20,6 +19,7 @@ main .user-profile img {
 
 main .user-info{
   font: var(--text-span-xsm);
+  color: var(--text-color-action);
   margin-left: 1rem;
   text-transform: uppercase;
 }
@@ -29,11 +29,12 @@ main .type-info {
   margin-left: 0.5rem;
   padding:0.4rem;
   text-transform: uppercase;
-  border-radius: 0.5rem;
+  border-radius: 0.2rem;
 }
 
 main .user-action {
   font: var(--text-color-action);
+  color: var(--text-color-action);
   margin-left: 0.94rem;
   margin-top: 50px;
 }
