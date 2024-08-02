@@ -42,3 +42,13 @@ body {
   height: 59.6rem;
   padding: 2rem;
 }
+
+.content {
+  padding: 2rem;
+}
+
+.content .content-list{
+  align-content: center;
+  list-style-type: none;
+  height: 48px;
+}
