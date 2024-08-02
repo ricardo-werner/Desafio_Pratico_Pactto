@@ -3,13 +3,13 @@ header .profile {
   text-transform: uppercase;
 }
 
-main {
+header main {
   display: flex;
   width: 16.3rem;
   padding: 42px 0px 12px;
 }
 
-main .user-profile img {
+header main .user-profile img {
   align-content: center;
   width: 2.5rem;
   height: 2.5rem;
@@ -17,14 +17,14 @@ main .user-profile img {
   border-radius: 50%;
 }
 
-main .user-info{
+header main .user-info{
   font: var(--text-span-xsm);
   color: var(--text-color-action);
   margin-left: 1rem;
   text-transform: uppercase;
 }
 
-main .type-info {
+header main .type-info {
   background-color: var(--bg-button);
   margin-left: 0.5rem;
   padding:0.4rem;
@@ -32,25 +32,32 @@ main .type-info {
   border-radius: 0.2rem;
 }
 
-main .user-action {
+header main .action {
+  display: flex;
+  align-items: center;
+  opacity: 0.5;
+}
+
+header main .user-action {
   font: var(--text-color-action);
   color: var(--text-color-action);
   margin-left: 0.94rem;
+  text-decoration: underline;
 }
 
-.user {
+section .user {
   display: flex;
   flex-direction: column;
   width: 16.3rem;
   padding-top: 28px;
 }
 
-.user-name {
+section .user-name {
   font: var(--text-span-md);
   margin-top: 0.5rem;
 }
 
-.user-member {
+section .user-member {
   font: var(--text-span-sm);
   color: var(--text-color-description);
   margin-top: 0.5rem;
