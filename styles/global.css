@@ -34,7 +34,7 @@
 body {
   color: var(--text-color-primary);
   display: grid;
-  grid-template-columns: 20.32rem  61.87rem;
+  grid-template-columns: 20.32rem  64rem;
 }
 
 #container-nav {
