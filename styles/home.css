@@ -1,0 +1,12 @@
+#container-home h1 {
+  font: var(--h1);
+  color: var(--text-color-primary);
+  margin-bottom: 1.25rem;
+}
+
+#content-home {
+  display:flex;
+  flex-direction: column;
+  height: 14.75rem;
+}
+
