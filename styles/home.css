@@ -1,3 +1,7 @@
+#container-home {
+  height: 236px;
+}
+
 #container-home h1 {
   font: var(--h1);
   color: var(--text-color-primary);
@@ -7,6 +11,5 @@
 #content-home {
   display:flex;
   flex-direction: column;
-  height: 14.75rem;
 }
 
