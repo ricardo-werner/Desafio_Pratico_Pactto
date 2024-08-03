@@ -12,4 +12,9 @@ footer .button {
   width: 16.3rem;
   height: 3rem;
   border-radius: 2rem;
+  cursor: pointer;
+}
+
+footer .button:hover {
+  background-color: var(--bg-button-hover);
 }
