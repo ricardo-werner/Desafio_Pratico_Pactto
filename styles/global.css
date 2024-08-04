@@ -36,7 +36,8 @@
 body {
   color: var(--text-color-primary);
   display: grid;
-  grid-template-columns: 20.32rem  64rem;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: auto 1fr;
 }
 
 #container-nav {
