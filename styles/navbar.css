@@ -37,6 +37,7 @@ header main .user-info{
 
 header main .type-info {
   background-color: var(--bg-button);
+  color: var(--text-color-primary);
   margin-left: 0.5rem;
   padding:0.4rem;
   text-transform: uppercase;
