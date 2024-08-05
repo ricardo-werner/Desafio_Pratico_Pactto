@@ -1,10 +1,6 @@
-# Projeto de Desafio Prático Pactto para a vaga Front-End Júnior
+# Projeto de Desafio Prático Pactto - Front-End Júnior
 
 #### Reproduzir o dashboard da página inicial do app.Pactto
-
-### Deploy do código no GituHub Pages (acesso como se fossse um página web)
-
-???????????????
 
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ricardo-werner)
@@ -21,20 +17,20 @@ Página referência para o desafio
   <img width="480" src="assets/to_readme/pactto_app.jpg">
 </p>
 
-Página da reprodução da página refeerência do desafio
+Página da reprodução da página referência do desafio
 <p align="center">
   <img width="480" src="assets/to_readme/pactto_recriacao.jpg">
 </p>
 
 
 ### O Desafio
-Neste desafio foi proposto recriar o dashboard que aparece ao realizar o logn na página inicial do website da Pactto.com, usando qualquer tecnologia de sua preferência.
+Neste desafio foi proposto recriar o dashboard que aparece ao realizar o login na página inicial do website da Pactto.com, usando qualquer tecnologia de sua preferência.
 
 ### Requisitos do desafio prático
 
 | Item  | Descrição                                            
 | ----- | -----------------------------------------------------------------------------|
-|  1    |  o dashboard deverá ser desenvolvida em HTML e CSS puro, Angular, React, etc.|  
+|  1    |  O dashboard deverá ser desenvolvida em HTML e CSS puro, Angular, React, etc.|  
 |  2    |  O dashboard deverá seguir o layout da página principal do website.          |
 |  3    |  Modelagem do layout, formatos, tipografias e cores conforme levantamento.   |
 
