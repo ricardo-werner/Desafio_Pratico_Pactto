@@ -1,6 +1,6 @@
-# Projeto de Desafio Prático Pactto
+# Projeto de Desafio Prático Pactto para a vaga Front-End Júnior
 
-#### Criação de um dashboard da página inicial do app.Pactto HTML e CSS
+#### Reproduzir o dashboard da página inicial do app.Pactto
 
 ### Deploy do código no GituHub Pages (acesso como se fossse um página web)
 
@@ -16,34 +16,47 @@ Status - Concluído
 
 ### Demonstração
 
-Tela inicial da landing page
+Página referência para o desafio
 <p align="center">
-  <img width="480" src="assets/to_readme/tela.PNG">
+  <img width="480" src="assets/to_readme/pactto_app.jpg">
+</p>
+
+Página da reprodução da página refeerência do desafio
+<p align="center">
+  <img width="480" src="assets/to_readme/pactto_recriacao.jpg">
 </p>
 
 
 ### O Desafio
-Neste projeto foi proposto recriar um dashboard, que é a página inicial do app Pactto.com, usando qualquer tecnologia de sua preferência.
+Neste desafio foi proposto recriar o dashboard que aparece ao realizar o logn na página inicial do website da Pactto.com, usando qualquer tecnologia de sua preferência.
 
-### Requisitos da Página
+### Requisitos do desafio prático
 
 | Item  | Descrição                                            
-| ----- | ----------------------------------------------------------------------------|
-|  1    |  A página deverá ser desenvolvida em HTML e CSS puro, Angular, React, etc.).|  
-|  2    |  O página deverá seguir o layout da página principal do website             |
-|  3    |  Modelagem do layout, formatos, tipografias e cores conforme levantamento   |
+| ----- | -----------------------------------------------------------------------------|
+|  1    |  o dashboard deverá ser desenvolvida em HTML e CSS puro, Angular, React, etc.|  
+|  2    |  O dashboard deverá seguir o layout da página principal do website.          |
+|  3    |  Modelagem do layout, formatos, tipografias e cores conforme levantamento.   |
 
 
 ### Formato da Página
 
-#### Lado NavBar
+#### Lado esuqerdo (NavBar)
 
-| Item                   | Descrição                                            
-| ---------------------- | ------------------------------------------------------------------------|
-|  Cabeçalho             | Informações iniciais da empresa                                         |
-|  Principal               | Inicio do detalhamento das principais informações turisticas da cidade. |
-|  Fechamento            | Considerações finais sobre a cidade.                                    |
-|  Rodapé                | Informações adicionais de contato, desenvolvedor e redes sociais.       |
+| Item        | Descrição                                            
+| ------------| ------------------------------------------------------------|
+|  Cabeçalho  | Informações iniciais da empresa.                            |
+|  Principal  | Inicio do detalhamento do usuário e o tempo sendo inscrito. |
+|  Opções     | Lista com 10 opções.                                        |
+|  Rodapé     | Botão de "logout".                                          |
+
+#### Lado direito (Principal)
+
+| Item        | Descrição                                            
+| ------------| --------------------------------------------------------|
+|  Cabeçalho  | Cumprimento de boas vinds com o nome do usuário.        |
+|  Principal  | Lisa de tarefas (To Do) a serem realizadas pelo usuário.|
+|  Upload     | botão de upload e área de pesquisa de vídeo.            |
 
 
 ### Plano do Projeto
@@ -54,23 +67,26 @@ No desenvolvimento desta página, coloquei em prática:
 | ----- | ------------- |
 |  1    |  HTML         |
 |  2    |  CSS          |
-|  3    |  Javascript   |
-|  4    |  Skills       |
+|  3    |  Skills       |
 
 ### Tecnologias utilizadas:
 
 - Visual Studio Code
-- Documentações 
+- Dev Tools (para levantamento dos requisitos do desafio)
+- Documentações e videos
 - ChatGPT
 
 
-Este projeto contribuiu significativamente para o aprimoramento do uso de estruturas em HTML e CSS. Mostrou-me como algo aparentemente simples pode, às vezes, parecer confuso, exigindo recursos adicionais para encontrar a solução adequada. Com o apoio dos vídeos iniciais do curso, tornou-se mais fácil entender as estruturas e otimizar as configurações no CSS. Além disso, o projeto incentivou a pensar em formas de estruturar uma página que facilitem futuras manutenções.
+Este desafio foi fundamental para aprimorar minhas habilidades em HTML e CSS.
+Ele demonstrou que o conhecimento adquirido no curso de formação pode ser efetivamente aplicado em situações reais. Percebi que, às vezes, tarefas aparentemente simples podem se revelar complicadas, exigindo recursos adicionais para encontrar a solução adequada.
+
+A utilização de documentação, vídeos e tecnologias disponíveis, aliada ao pensamento organizacional, facilitou a compreensão das estruturas e a otimização das configurações no CSS. Além disso, o projeto incentivou a criação de páginas com uma estrutura que simplifique futuras manutenções.
 
 ## Para utilizar este projeto como base, faça o seguinte passo-a-passo:
 
 Clone o projeto para a sua máquina
 ```bash
-https://github.com/ricardo-werner/Rocketseat_FullStack_Desafio_Pratico_Local_Turistico.git
+https://github.com/ricardo-werner/Desafio_Pratico_Pactto.git
 ```
 - Rode o projeto
 
