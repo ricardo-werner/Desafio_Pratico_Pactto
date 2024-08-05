@@ -34,7 +34,7 @@
 }
 
 body {
-  color: var(--text-color-primary);
+  color: var(--text-color-span);
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-columns: auto 1fr;
@@ -83,6 +83,7 @@ body {
 
 .todo-item {
   background-color: var(--bg-button);
+  color: var(--text-color-primary);
   padding: 0.2rem 0.3rem;
   text-transform: uppercase;
   font: var(--text-span-xsm);
