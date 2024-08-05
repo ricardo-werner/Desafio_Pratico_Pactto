@@ -37,7 +37,7 @@ Neste desafio foi proposto recriar o dashboard que aparece ao realizar o login n
 
 ### Formato da Página
 
-#### Lado esuqerdo (NavBar)
+#### Lado esquerdo (NavBar)
 
 | Item        | Descrição                                            
 | ------------| ------------------------------------------------------------|
