@@ -40,7 +40,7 @@ body {
   grid-template-columns: auto 1fr;
 }
 
-#container-nav {
+#container-sidebar {
   background-color: var(--bg-color-nav);
   padding: 2rem;
 }
