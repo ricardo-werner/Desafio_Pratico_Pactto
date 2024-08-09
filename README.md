@@ -77,7 +77,7 @@ No desenvolvimento desta página, coloquei em prática:
 Este desafio foi fundamental para aprimorar minhas habilidades em HTML e CSS.
 Ele demonstrou que o conhecimento adquirido no curso de formação pode ser efetivamente aplicado em situações reais. Percebi que, às vezes, tarefas aparentemente simples podem se revelar complicadas, exigindo recursos adicionais para encontrar a solução adequada.
 
-A utilização de documentação, vídeos e tecnologias disponíveis, aliada ao pensamento organizacional, facilitou a compreensão das estruturas e a otimização das configurações no CSS. Além disso, o projeto incentivou a criação de páginas com uma estrutura que simplifique futuras manutenções.
+A utilização de documentação, vídeos e tecnologias disponíveis, aliada ao pensamento organizacional, facilitou a compreensão das estruturas e a otimização das configurações no CSS. Além disso, o desafio incentivou a criação de uma página com uma estrutura que simplifique futuras manutenções.
 
 ## Para utilizar este projeto como base, faça o seguinte passo-a-passo:
 
