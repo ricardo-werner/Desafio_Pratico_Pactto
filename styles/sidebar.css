@@ -38,8 +38,9 @@ header main .user-info{
 header main .type-info {
   background-color: var(--bg-button);
   color: var(--text-color-primary);
+  font-size: var(--text-span-sm);
   margin-left: 0.5rem;
-  padding:0.4rem;
+  padding: 0.2rem;
   text-transform: uppercase;
   border-radius: 0.2rem;
 }
