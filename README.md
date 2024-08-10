@@ -51,7 +51,7 @@ Neste desafio foi proposto recriar o dashboard que aparece ao realizar o login n
 
 | Item        | Descrição                                            
 | ------------| --------------------------------------------------------|
-|  Cabeçalho  | Cumprimento de boas vinds com o nome do usuário.        |
+|  Cabeçalho  | Cumprimento de boas vindas com o nome do usuário.        |
 |  Principal  | Lisa de tarefas (To Do) a serem realizadas pelo usuário.|
 |  Upload     | botão de upload e área de pesquisa de vídeo.            |
 
